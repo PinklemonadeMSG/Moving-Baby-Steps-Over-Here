@@ -6,4 +6,4 @@ This is my personal and learning journal to relearn everything I did not know ab
 My setup is a lab I'm building with help from online sources; it is a Raspberry Pi 4 with enough storage that is connected to an old laptop screen using a hdmi to usb and a lcd controller for the screen. My idea is to set up a vmware Windows and Linux server ? 
 Then have a practical project to apply and develop those learned skills. 
 
-Skip to the *Anyway section to skip my intro in each daily log. 
+Skip to the *Anyway section to skip my stories in each daily log. 
