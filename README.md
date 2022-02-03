@@ -10,7 +10,11 @@ Skip to the *Anyway section to skip my stories in each daily log.
 
 
 My Sources: 
+
 http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm  a course in unison with the book Computer Networking: a Top Down Approach 
+
 Geeks For Geeks 
+
 Learn Linux The Hardway here: https://archive.is/xDb8o
+
 Getting Familiar with Command Line https://archive.is/63Pf8
