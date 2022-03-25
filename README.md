@@ -20,3 +20,7 @@ Learn Linux The Hardway here: https://archive.is/xDb8o
 Getting Familiar with Command Line https://archive.is/63Pf8
 
 Overthewire.org
+
+100Devs
+Web Dev. Udemy Course by Colt Steele and Dr. Angela Yu
+These are alot of resources. I use one to fill in the other and get a different perspective of the topics.
