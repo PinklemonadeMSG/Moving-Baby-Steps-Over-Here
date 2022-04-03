@@ -1,69 +1,121 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 
-<head>
-<link rel="stylesheet" href="C:\Users\18626\Desktop\Notes\practice_html\HwFor100devs\HwClass4\khan.css">
+<head> 
+<link rel="stylesheet" href="C:\Users\18626\Desktop\Notes\practice_html\class materials\class08-materials\fixingit.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" >
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="stylesheet" href="C:\Users\18626\Desktop\Notes\practice_html\class materials\class06-materials done\template\css\normalize.css">
-
 </head>
 
+<body> 
 
-
-<body>
-
-<Section>
+<header> 
 <nav>
-<div>
-<label>Courses</label>
-<select>
-<option></option>
-</select>
-</div>
-
-
-<form>
-<input type="search" placeholder="Search"> 
-</form>
-
-
-<img id="logo" src="file:///C:/Users/18626/Desktop/Notes/practice_html/HwFor100devs/HwClass4/logo.png">
-
 <ul>
-<li><a href="#">Donate</a></li>
-<li><a href="#">Login</a></li>
-<li><a href="#">Sign up</a></li>
+<li> <a href="">CLASSES</a></li>
+<li> <a href="">HIRE US</a></li>
+</ul>
+<img src="#">
+<button id="DONATE" value="DONATE">DONATE</button>
+</nav>
+
+</header>
+<!-- 1st Section -->
+
+<section id="section1">
+<h1>WHERE GRIT MEETS OPPORTUNITY</h1>
+<p>At Level Ground (LG), urban youth  cultivate grit and resilience through Mixed Martial Arts. They learn to apply these values 'off the mat' in the pursuit of their ambitions through our Student Trainer Certification and College Access programs.</p>
+<img src="#"><span></span>span>Watch the Video</span>
+</section>
+
+<!-- 2nd Section -->
+<section id="Section2">
+<h3>WHY</h3>
+<p>Aenean eu leo quam.Pellentesque ornare sem alcinia quam<br> venenatis vestibulum. Donec ullamcorper nulla non metus<br> auctor fringilla. Lorem ipsum dolor sit amet, consectetur<br> adipiscing elit. Duis mollid est non commodo luctus, nisi erat<br> portitor ligula,eget lacinia odio sem nec eilit.</p>
+
+</section>
+
+<!-- 3rd Section -->
+
+<section id="section3">
+
+<div class="pic-containers">
+<img src="#">
+<h3> VISIT THE GYM</h3>
+<p>Etiam porta sem malescuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+<button class="sec3-buttons">SEE CLASSES</button>
+</div>
+ 
+<div class="pic-containers">
+<img src="#">
+<h3>HAVE US VISIT YOU </h3>
+<p>Etiam porta sem malescuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+<button class="sec3-buttons">HIRE US</button>
+</div> 
+ 
+ </section>
+ 
+ 
+ <!--4th Section -->
+ <section id="section4">
+ 
+
+<h1> VOLUNTEER WITH LEVEL GROUND </h1> 
+<p>Aenean eu leo quam. Pellentesque rnare sem lacinia quam<br>venenatis vestibulum.Donec ullamcorper nulla non metus<br> auctor fringilla. Lorem ipsum dolor sit amet, consectetur<br> adipiscing elit. Duis mollis, est non commodo luctus, nisi erat<br> porttitor ligula, eget lacinia odio sem nec elit.
+<button id="VOLUNTEER">VOLUNTEER</button>
+
+</section>
+
+<footer>
+
+
+<section id="social-media-bar">
+<ul>
+<li><a href=""><img src="#"></a></li>
+<li><a href=""><img src="#"></a></li>
+<li><a href=""><img src="#"></a></li>
+
 </ul>
 
-</nav>
+ 
+<ul>
+<h4>SITE MAP</h4>
+<li><a href="#">Classes</a></li>  
+<li><a href="#"> Hire Us</a></li>
+</ul>
+
+
+<ul>
+<h4>CONTRIBUTE</h4>
+<li><a href="#">Give</a></li>
+<li><a href="#"><li>Volunteer</a></li>
+</ul>
+</section>
+
+
+ <section id="address">
+<h4>LEVEL GROUND <br> MIXED MARTIAL ARTS</h4>
+ 
+
+<p> 50 Milk Street, Floor 17<br> Boston,MA 02109<br>410-553-2210<br>Ali@LevelGroundMMA.org</p>
 </section>
 
 <hr>
 
 
+<p>Level Ground Mixed Martial Arts is a tax-exempt, 501(c)3 organization under the IRS. EIN 46-3915852</p>
+<img id="bottom-logo" src="#">
 
-<main>
+
+ </footer>
  
-<section id="section1">
-<img id="pic" src="https://cdn.hundred.org/uploads/innovation/cover_image/2082/wide_Kahn_Academy.png">
-</section>
-
-<section id="section2">
-<h1>For every student,<br>every classroom.<br>Real results.</h1>
-<p>We're a nonprofit with the mission to provide a free, world-class<br> education for anyone, anywhere.</p>
-<a href="">Learners</a>
-<a href="">Teachers</a>
-<a href="">Districts</a>
-<a href="">Parents</a>
-</section>
-
-</main>
-
- 
-
 </body>
+
+
+
 
 
 </html>
